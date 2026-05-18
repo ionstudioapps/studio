@@ -81,6 +81,15 @@ The wheel uses the same 8 colours in both modes — warm and bright in Gentle Bo
 
 This isn't just a dark/light mode toggle — it's an intentional emotional design choice that lets the app meet the user where they are.
 
+#### ⚠️ Accessibility consideration (Sua)
+The muted, low-contrast palette is intentional — but needs to be checked against accessibility standards for users with colour blindness or low vision. Apple and Google won't reject the app for this, but it's a real inclusivity concern. This applies to other parts of the app too, not just the palette.
+
+**To do (when we get to it):**
+- [ ] Run palette through a contrast checker (WCAG AA minimum: 4.5:1 for text)
+- [ ] Test both modes with a colour blindness simulator (e.g. Stark in Figma)
+- [ ] Audit existing app screens for accessibility issues
+- [ ] Consider adding an optional high-contrast mode
+
 ### Visual Direction
 - Clean and minimal — space to breathe
 - Playful accents — the wheel, motion, colour
