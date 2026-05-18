@@ -72,7 +72,20 @@ We build tools we use ourselves. Progress is shared, decisions are explained, an
 - Not corporate, not childish — somewhere between a studio and a game
 
 ### Colour Palette
-> TBD — add hex values here
+
+**A new palette: warm, muted, breathable.**
+
+| Name | Hex | Use |
+|------|-----|-----|
+| Peach | `#EDB590` | Primary accent |
+| Coral | `#E59880` | Hover / active states |
+| Honey | `#F0D29D` | Background tints |
+| Sage | `#BCD4A5` | Success / positive |
+| Mint | `#9DC4BC` | Secondary accent |
+| Lavender | `#ADA8CC` | Focus / highlight |
+| Lilac | `#D4A5C8` | Tags / labels |
+| Blush | `#EDBDAC` | Soft backgrounds |
+| Ink | `#2A2520` | CTAs, titles, body text — charcoal instead of pure black |
 
 ### Typography
 > TBD — add font names and weights here
