@@ -66,6 +66,21 @@ Rocky doesn't replace how your team works — it plugs into the tools you alread
 **"Built in the open"**
 We build tools we use ourselves. Progress is shared, decisions are explained, and the community is part of the process.
 
+### UI Concept: One palette — two states of mind
+
+> *Let the user choose how the app should meet them today.*
+
+The same colour palette expresses two distinct emotional modes. Users pick the one that matches where they are right now.
+
+| Mode | Name | Feel | Background |
+|------|------|------|------------|
+| ☀️ Gentle Boost | **Warm start** | Lighter, warmer, gently uplifting | Cream / off-white |
+| 🌙 Grounding Mode | **Slow down** | Calming, grounding, emotionally regulating, safe during overwhelming moments | Deep dark purple (`#1E1B2E` range) |
+
+The wheel uses the same 8 colours in both modes — warm and bright in Gentle Boost, muted and desaturated in Grounding Mode. The palette doesn't change; the world around it does.
+
+This isn't just a dark/light mode toggle — it's an intentional emotional design choice that lets the app meet the user where they are.
+
 ### Visual Direction
 - Clean and minimal — space to breathe
 - Playful accents — the wheel, motion, colour
